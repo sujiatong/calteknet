@@ -27,7 +27,7 @@ Objective: Understanding the relationship between the language spoken(english li
 
 ##### OLS Model Interpretation 
 
-<img src="project2/fullols_less_poverty.png" alt="drawing" width="350"/>
+<img src="project2/fullOLS_less_poverty.png" alt="drawing" width="350"/>
 
 The OLS model defines the correlation between the variables. In the OLS model, the R-square is 0.3087, representing the poverty status explains 30.87% of the limited English speakers.
 It suggests a moderate relationship between poverty status and limited English speaker.
