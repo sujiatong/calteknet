@@ -14,7 +14,7 @@ In order to deeply study the pattern of spatial distribution, then using Moran's
 This helps to reveal whether household distributions tend to be spatially clustered or dispersed, providing a more comprehensive geographical explanation.
 
 
-##Method
+## Method
 
 - **ANOVA**
 ANOVA (Analysis of Variance) is a statistical test used to compare the means of more groups to determine whether there are statistically significant differences between these group means. In the context of regions, ANOVA aims to determine significant differences in a Variables(language speaking households) among regions(SPAs). Thus, this project utilizes ANOVA analysis to invetigate and compare the SPAs regional differences variation of languages speaking households.
@@ -32,7 +32,7 @@ Objective: Understanding the relationship between the language spoken(english li
 Approach: Develop OLS and Spatial Weight Regression to investigate correlation among with non-english languages, educations levels, and employment rate
 
 
-##Data source
+## Data source
 
 - <a href="https://data.census.gov/table/ACSST1Y2022.S1602?text=Table%20s2301&g=040XX00US53_050XX00US53057_010XX00US"> Limited English Speking Household (S1602)</a>
 
